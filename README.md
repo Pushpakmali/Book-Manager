@@ -1,2 +1,3 @@
 # Book-Manager
-In this I have implementated the back-end part of Book manager system.
+Designed and developed a library management system using Spring MVC and
+Rest APIs.
